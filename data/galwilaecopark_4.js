@@ -1,0 +1,1 @@
+var json_galwilaecopark_4 = {"type":"FeatureCollection","name":"galwilaecopark_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Galwila":null},"geometry":{"type":"Point","coordinates":[80.013676920965423,8.099334828828876]}}]}

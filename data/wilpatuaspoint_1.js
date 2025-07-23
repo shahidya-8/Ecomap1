@@ -1,0 +1,1 @@
+var json_wilpatuaspoint_1 = {"type":"FeatureCollection","name":"wilpatuaspoint_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":null},"geometry":{"type":"Point","coordinates":[80.097162482937691,8.447266914876078]}}]}

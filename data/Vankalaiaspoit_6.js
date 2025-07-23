@@ -1,0 +1,1 @@
+var json_Vankalaiaspoit_6 = {"type":"FeatureCollection","name":"Vankalaiaspoit_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":null},"geometry":{"type":"Point","coordinates":[79.928341411674637,8.943731799879826]}}]}
